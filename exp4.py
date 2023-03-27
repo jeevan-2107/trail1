@@ -30,7 +30,7 @@ def m(l):#fuction for finding the minimum value in list
 		print('The minimum element in the list is ',mini)
 	else:
 		print('Add elements in the list and try again')
-l=[]#empty list
+l=[]#empty list omayova
 menu="""******
 a - to add element
 p - to print the list
